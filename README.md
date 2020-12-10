@@ -1,2 +1,4 @@
 # my-banana-tranlate-livelecture
- made during live lecture
+This is a fun translator app where you speak in english and 
+it translates to minion language, I made this using vanilla js,html,css.
+

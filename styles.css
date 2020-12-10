@@ -1,9 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+
+
 textarea {
+
         width:80%;
         display: block;
-        margin: 1rem;
+        margin: 2rem;
         height: 5vh;
-        padding: 1rem;            
+        padding: 3rem;  
+        font-size: 30px;
+        color:red;
+        font-family: 'Nerko One', cursive;
+        background-color: #FCD34D;
+        text-align: center;
+                
     }
 
 #output {
@@ -11,4 +22,57 @@ textarea {
     height: 10vh;
     width: 80%;
     margin: 1rem;
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+    background-color: #FCD34D;
 }
+
+.out {
+    font-size: 39px;
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'Nerko One', cursive;
+    
+
+
+}
+
+.heading1 {
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+    font-size: 50px;
+    
+
+}
+
+.butto {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 41%;
+    font-size: 25px;
+    border-radius: 8px;
+    border: 2px solid red;
+}
+
+
+.butto:hover {
+    color:tomato;
+}
+
+.abt {
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+}
+
+#about{
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    font-family: 'Nerko One', cursive;
+    
+    background-color: #FCD34D;
+    
+}
+
