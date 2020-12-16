@@ -26,6 +26,8 @@ textarea {
     font-family: 'Nerko One', cursive;
     text-align: center;
     background-color: #FCD34D;
+    font-size: 30px;
+    color: red;
 }
 
 .out {
@@ -34,6 +36,7 @@ textarea {
     margin-top: 25px;
     font-family: 'Nerko One', cursive;
     margin-left: 17%;
+    
     
 
 
